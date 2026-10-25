@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this repository or its research artifacts, please cite the published article below."
+title: "Vision transformer embedded video anomaly detection using attention driven recurrence"
+type: software
+authors:
+  - given-names: "Ummay Maria"
+    family-names: "Muna"
+  - given-names: "Shanta"
+    family-names: "Biswas"
+  - given-names: "Syed Abu Ammar Muhammad"
+    family-names: "Zarif"
+  - given-names: "Philip Jefferson"
+    family-names: "Deori"
+  - given-names: "Tauseef"
+    family-names: "Tajwar"
+  - given-names: "Swakkhar"
+    family-names: "Shatabda"
+abstract: >-
+  Research code and experiment records for a video anomaly detection framework
+  combining Vision Transformer feature extraction, attention-driven SRU++
+  temporal modeling, video segmentation, multiclass classification, and
+  cluster-based feature-similarity weighting.
+keywords:
+  - "video anomaly detection"
+  - "deep learning"
+  - "vision transformer"
+  - "SRU++"
+  - "attention mechanism"
+  - "spatio-temporal feature analysis"
+  - "multiclass classification"
+  - "cluster-based weighting"
+license: MIT
+repository-code: "https://github.com/kishoreshanto/video-anomaly-detection"
+url: "https://doi.org/10.1016/j.array.2025.100471"
+identifiers:
+  - type: doi
+    value: "10.1016/j.array.2025.100471"
+    description: "DOI for the published research article"
+preferred-citation:
+  type: article
+  title: "Vision transformer embedded video anomaly detection using attention driven recurrence"
+  authors:
+    - given-names: "Ummay Maria"
+      family-names: "Muna"
+    - given-names: "Shanta"
+      family-names: "Biswas"
+    - given-names: "Syed Abu Ammar Muhammad"
+      family-names: "Zarif"
+    - given-names: "Philip Jefferson"
+      family-names: "Deori"
+    - given-names: "Tauseef"
+      family-names: "Tajwar"
+    - given-names: "Swakkhar"
+      family-names: "Shatabda"
+  journal: "Array"
+  volume: "27"
+  year: 2025
+  doi: "10.1016/j.array.2025.100471"
+  url: "https://www.sciencedirect.com/science/article/pii/S2590005625000980"
